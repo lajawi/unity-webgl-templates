@@ -1,0 +1,18 @@
+{
+    "name": "com.github.lajawi.webgltemplates",
+    "version": "0.0.1",
+
+    "description": "Unity's own WebGL templates, but with dynamic sizing.",
+    "displayName": "WebGL Templates",
+    "unity": "2022.3",
+
+    "author": {
+        "name": "lajawi",
+        "email": "",
+        "url": "https://github.com/lajawi/"
+    },
+    "changelogUrl": "https://github.com/lajawi/unity-webgl-templates/blob/main/CHANGELOG.md",
+    "documentationUrl": "https://github.com/lajawi/unity-webgl-templates/blob/main/README.md",
+    "license": "GPL-3.0-only",
+    "licenseURL": "https://github.com/lajawi/unity-webgl-templates/blob/main/LICENSE.md"
+}
