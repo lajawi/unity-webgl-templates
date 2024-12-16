@@ -4,7 +4,9 @@ A small Unity package for easily saving and loading custom data in a JSON format
 
 ## Usage
 
-Install the package according to the [installation instructions](#installation). Once installed, you can select the desired WebGL Templates in the Player settings.
+Install the package according to the [installation instructions](#installation). Once installed, the templates should automatically be added to your Assets folder, then you can select the desired WebGL Templates in the Player settings.
+
+Upon updating the package, you might be asked to update the previously imported assets. This will override all files that are being reimported, but not delete any which were deleted from one version to the next.
 
 ## Installation
 
