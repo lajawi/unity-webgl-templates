@@ -1,6 +1,6 @@
 # Unity WebGL Templates
 
-A small Unity package for easily saving and loading custom data in a JSON format.
+Unity package containing WebGL templates with automatic resizing capabilities.
 
 ## Usage
 

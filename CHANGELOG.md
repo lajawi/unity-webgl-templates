@@ -1,6 +1,16 @@
 # Changelog
 
-## [1.0.0]
+## [1.0.1] - 2024-12-19
+
+### Added
+
+- CHANGELOG.md date for [1.0.0](#100---2024-12-16)
+
+### Changed
+
+- README.md introduction
+
+## [1.0.0] - 2024-12-16
 
 ### Added
 
