@@ -74,14 +74,7 @@ namespace Lajawi
 
         private static void CheckPackageVersion()
         {
-            if (!listReq.IsCompleted)
-            {
-                return;
-            }
-
-            EditorApplication.update -= CheckPackageVersion;
-
-            packageVersion = listReq.Result.First(p => p.name == packageName).version;
+            packageVersion = UnityEditor.PackageManager.PackageInfo.FindForPackageName(packageName).version;
 
             if (!File.Exists(webglTemplatesVersionFilePath))
             {

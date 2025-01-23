@@ -1,6 +1,6 @@
 {
     "name": "com.github.lajawi.webgltemplates",
-    "version": "1.0.0",
+    "version": "1.0.2",
 
     "description": "Unity's own WebGL templates, but with dynamic sizing.",
     "displayName": "WebGL Templates",
